@@ -1,2 +1,2 @@
 # .dotfile
-omzsh
+#this repository downloads zsh russel
